@@ -15,6 +15,7 @@
   * Foto reportage van de stage
   * Analyse van de huisstijl
   * Casestudy: over het bedrijfs netwerk
+  * Bedrijfeconomische Analyse van het stage bedrijf
   * Stage dagverslagen
   * Footer met extra info en links
 - [IT-tapa](https://michielve-immalle.github.io/GIPwebsite/ittapa.html)
