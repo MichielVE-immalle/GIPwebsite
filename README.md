@@ -33,6 +33,6 @@ Ik heb voor het bouwen van de site gebruik gemaakt van [Materialize](http://mate
 [W3Schools](https://www.w3schools.com/css/default.asp). Ik heb geen template gebruikt maar heb stukken code gebruikt van [Materialize](http://materializecss.com/) en van [W3Schools](https://www.w3schools.com/css/default.asp). Die stukken code heb ik dan zo nodig aangepast aan mijn voorkeuren en site. De kleuren die ik heb gebruikt als achtergrond en in de Navbar en Footer Heb ik op basis van de kleuren van het logo van mijn stage bedrijf gekozen en eigen voorkeur.
 
 ## Extra links
-[Visitor counter](https://www.freecounterstat.com)
-[Materialize](http://materializecss.com/)
-[W3Schools](https://www.w3schools.com/css/default.asp)
+- [Visitor counter](https://www.freecounterstat.com)
+- [Materialize](http://materializecss.com/)
+- [W3Schools](https://www.w3schools.com/css/default.asp)
